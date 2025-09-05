@@ -1,0 +1,106 @@
+[
+  {
+    "name": "bg_fail_normal",
+    "path": "普通/bg_fail_normal",
+    "x": -104,
+    "y": 436,
+    "width": 1510,
+    "height": 1348
+  },
+  {
+    "name": "wheatPattern",
+    "path": "普通/wheatPattern",
+    "x": 2,
+    "y": 140,
+    "width": 1325,
+    "height": 2178
+  },
+  {
+    "name": "bg_reward_normal_slot",
+    "path": "普通/超难/bg_reward_normal_slot",
+    "x": 82,
+    "y": 729,
+    "width": 1138,
+    "height": 613
+  },
+  {
+    "name": "bg_reward",
+    "path": "普通/超难/bg_reward",
+    "x": 89,
+    "y": 734,
+    "width": 1123,
+    "height": 602
+  },
+  {
+    "name": "addBg",
+    "path": "普通/超难/addBg",
+    "x": 442,
+    "y": 772,
+    "width": 409,
+    "height": 414
+  },
+  {
+    "name": "bg_reward_normal_slot",
+    "path": "普通/btn/bg_reward_normal_slot",
+    "x": 232,
+    "y": 1376,
+    "width": 839,
+    "height": 282
+  },
+  {
+    "name": "btn_bg9_green",
+    "path": "普通/btn/btn_bg9_green",
+    "x": 240,
+    "y": 1382,
+    "width": 823,
+    "height": 269
+  },
+  {
+    "name": "icon_gold_250",
+    "path": "普通/btn/icon_gold_250",
+    "x": 677,
+    "y": 1444,
+    "width": 140,
+    "height": 139
+  },
+  {
+    "name": "btn_close",
+    "path": "普通/btn_close",
+    "x": 566,
+    "y": 1807,
+    "width": 162,
+    "height": 167
+  },
+  {
+    "name": "label_bg9",
+    "path": "coin/label_bg9",
+    "x": 154,
+    "y": 74,
+    "width": 224,
+    "height": 80
+  },
+  {
+    "name": "icon_gold_250",
+    "path": "coin/icon_gold_250",
+    "x": 80,
+    "y": 52,
+    "width": 127,
+    "height": 126
+  },
+  {
+    "name": "numGreen",
+    "path": "coin/add/numGreen",
+    "x": 165,
+    "y": 129,
+    "width": 62,
+    "height": 66
+  },
+  {
+    "name": "symb_add",
+    "path": "coin/add/symb_add",
+    "x": 178,
+    "y": 139,
+    "width": 36,
+    "height": 35
+  }
+]
